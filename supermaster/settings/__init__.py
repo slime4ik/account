@@ -1,2 +1,2 @@
-# from .local import *
-from .prod import *
+from .local import *  # Для локалки
+# from .prod import *  # Для прода
